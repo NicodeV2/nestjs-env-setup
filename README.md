@@ -1,6 +1,6 @@
 # NestJS Environment Variables Setup
 
-Este proyecto es un ejemplo de cómo manejar variables de entorno en un proyecto NestJS utilizando `@nestjs/config`. También demuestra cómo devolver información sobre estas variables en un formato HTML utilizando un endpoint específico.
+Este proyecto es un ejemplo de cómo manejar variables de entorno en un proyecto NestJS utilizando `@nestjs/config` en vez de dotenv. También demuestra cómo devolver información sobre estas variables en un formato HTML utilizando un endpoint específico.
 
 ## Instalación
 
